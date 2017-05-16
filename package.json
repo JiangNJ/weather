@@ -1,0 +1,14 @@
+{
+  "name": "wearth-jh",
+  "version": "1.0.1",
+  "description": "获取城市天气",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "jiangheng7@126.com",
+  "license": "ISC"
+}
